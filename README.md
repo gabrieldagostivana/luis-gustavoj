@@ -47,7 +47,4 @@ If you want you can visit my [portfolio](https://luisoila.dev/)
   <a href="https://www.linkedin.com/in/luis-silva-8b0334185/">
   <code><img alt="My linkedin" width="32" src="./images/linkedin.svg" /></code>
 </a>
-<a href="https://instagram.com/luis_gustavoj">
-<code><img alt="My e-mail" width="32" src="./images/instagram.svg" /></code>
-</a>
 </p>
